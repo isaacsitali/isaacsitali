@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @isaacsitali
-- 👀 I’m interested in Cyber security
+- 👀 I’m interested in Cyber security & C|EH
 - 🌱 I’m currently learning Cyber security
 - 💞️ I’m looking to collaborate on Cyber security
-- 📫 How to reach me isaacsital@gmail.com
+- 📫 How to reach me isaacsitali@gmail.com
 - 
 
 <!---
